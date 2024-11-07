@@ -1,6 +1,7 @@
 <img src="./coding.jpg"/>
 <h1 align="center" >Hi there 😊, Shabia Ahammed Risha </h1>
-<h3 align="center" >I'm a Web Designer</h3>
+<h3 align="center" >I'm a Android apps Developer
+</h3>
 
 
 # 💫 About Me:
