@@ -1,11 +1,11 @@
 <img src="./coding.jpg"/>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h3 align="center" >I'm a Android apps Developer
+<h3 align="center" >I'm a Professional Video Editor
 </h3>
 
 
 # 💫 About Me:
-🏠 Working From Home<br>📗 Self Learning<br>🚀 Quick Learner<br>❤️‍🔥 Love coding
+🏠 Working From Home<br>📗 Self Learning<br>🚀 Quick Learner<br>❤️‍🔥 Love editing
 
 
 # 👩‍💻 Tech Stack:
